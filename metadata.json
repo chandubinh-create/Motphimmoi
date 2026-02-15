@@ -1,0 +1,8 @@
+{
+  "name": "MOTPHIM - Xem Phim Online",
+  "description": "Nền tảng xem phim trực tuyến hiện đại với giao diện tối ưu, tích hợp API OPhim và hệ thống yêu thích cá nhân.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
